@@ -1,0 +1,15 @@
+C:\Users\SONALI MAHAPATRA\253\StackAndQueue\StackAndQueue\bin\Debug\net6.0\StackAndQueue.exe
+C:\Users\SONALI MAHAPATRA\253\StackAndQueue\StackAndQueue\bin\Debug\net6.0\StackAndQueue.deps.json
+C:\Users\SONALI MAHAPATRA\253\StackAndQueue\StackAndQueue\bin\Debug\net6.0\StackAndQueue.runtimeconfig.json
+C:\Users\SONALI MAHAPATRA\253\StackAndQueue\StackAndQueue\bin\Debug\net6.0\StackAndQueue.dll
+C:\Users\SONALI MAHAPATRA\253\StackAndQueue\StackAndQueue\bin\Debug\net6.0\StackAndQueue.pdb
+C:\Users\SONALI MAHAPATRA\253\StackAndQueue\StackAndQueue\obj\Debug\net6.0\StackAndQueue.csproj.AssemblyReference.cache
+C:\Users\SONALI MAHAPATRA\253\StackAndQueue\StackAndQueue\obj\Debug\net6.0\StackAndQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SONALI MAHAPATRA\253\StackAndQueue\StackAndQueue\obj\Debug\net6.0\StackAndQueue.AssemblyInfoInputs.cache
+C:\Users\SONALI MAHAPATRA\253\StackAndQueue\StackAndQueue\obj\Debug\net6.0\StackAndQueue.AssemblyInfo.cs
+C:\Users\SONALI MAHAPATRA\253\StackAndQueue\StackAndQueue\obj\Debug\net6.0\StackAndQueue.csproj.CoreCompileInputs.cache
+C:\Users\SONALI MAHAPATRA\253\StackAndQueue\StackAndQueue\obj\Debug\net6.0\StackAndQueue.dll
+C:\Users\SONALI MAHAPATRA\253\StackAndQueue\StackAndQueue\obj\Debug\net6.0\refint\StackAndQueue.dll
+C:\Users\SONALI MAHAPATRA\253\StackAndQueue\StackAndQueue\obj\Debug\net6.0\StackAndQueue.pdb
+C:\Users\SONALI MAHAPATRA\253\StackAndQueue\StackAndQueue\obj\Debug\net6.0\StackAndQueue.genruntimeconfig.cache
+C:\Users\SONALI MAHAPATRA\253\StackAndQueue\StackAndQueue\obj\Debug\net6.0\ref\StackAndQueue.dll
